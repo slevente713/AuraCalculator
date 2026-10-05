@@ -4,7 +4,7 @@ This is a Powershell, and a shell script that calculates your aura, baseed on ho
 ## How to use?
 Run the command:
 ```sh
-echo "Math it yourself"
+echo "Figure it out yourself"
 ```
 
 Then, follow the instructions that it writes out, to PowerShell.
